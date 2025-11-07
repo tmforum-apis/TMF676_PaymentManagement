@@ -1,12 +1,8 @@
-# TMF676_PaymentManagement
-TM Forum Open APIs (Apache 2.0) Payment Management API
+# TMF676 PaymentManagement
 
-This API allows the following operations. Notify of a performed payment, retrieve a list 
-of payments filtered by a given criteria, retrieve a single performed payment, notify of 
-a performed refund, retrieve a list of refunds filtered by a given criteria and retrieve a 
-single performed refund.
+TM Forum Open API (Apache 2.0) PaymentManagement API.
 
-To access this API; (the Specification, Postman Collection, Swagger file, Swagger-UI,
-Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
+of payments filtered by a given criteria, retrieve a single performed payment, notify of a performed refund, retrieve a list of refunds filtered by a given criteria and retrieve a single performed refund.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
